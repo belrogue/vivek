@@ -6,6 +6,6 @@ Num	Names	Colors
 5	Miles	Cyan
 6	Padma	Black
 7	Aral	Red
-8	Bel Magenta
-9   Nicol   Gray
-10  Kat Yellow
+8	Bel	Black
+9	Nicol	Gray
+10	Stella	Yellow
