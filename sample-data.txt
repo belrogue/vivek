@@ -1,6 +1,11 @@
-Num	Names	Births
-0	Bob	968
-1	Jessica	155
-2	Mary	77
-3	John	578
-4	Mel	973
+Num	Names	Colors
+1	Anand	Green
+2	Jyoti  	White
+3	Ivan	Orange
+4	Tejaswini	Blue
+5	Miles	Cyan
+6	Padma	Black
+7	Aral	Red
+8	Bel Magenta
+9   Nicol   Gray
+10  Kat Yellow
